@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PIC16LF18857-I/ML
+D PIC16(L)F18857 28-pin
+K PIC 18857
+F http://www.microchip.com/wwwproducts/Devices.aspx?product=PIC16F18857
+$ENDCMP
+#
+#End Doc Library
